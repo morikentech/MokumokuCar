@@ -1,9 +1,6 @@
 # MokumokuCar
 a mecanum wheel car
 
-<iframe src="https://a360.co/3FV13eT" target="_blank rel="noreferrer noopener"></iframe>
-
-
 **Parts list**
  <table border="1">
     <tr>
