@@ -14,7 +14,7 @@ a mecanum wheel car
       <th>1</th>
       <th>DC Motor</th>
       <th>4</th>
-      <th>description</th>
+      <th>TT Motor</th>
     </tr>
     <tr>
       <th>2</th>
