@@ -2,7 +2,7 @@
 a mecanum wheel car
 
 
-Parts list
+**Parts list**
  <table border="1">
     <tr>
       <th>No.</th>
@@ -38,6 +38,18 @@ Parts list
       <th>5</th>
       <th>Micro Controller</th>
       <th>1</th>
-      <th>M5 Stack Core2</th>
+      <th><a href="https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit">M5Stack Core2</a></th>
+    </tr>
+    <tr>
+      <th>6</th>
+      <th>Motor Driver</th>
+      <th>1</th>
+      <th><a href="https://www.adafruit.com/product/2927">DC Motor + Stepper FeatherWing Add-on For All Feather Boards</a></th>
+    </tr>
+    <tr>
+      <th>n</th>
+      <th>Under construction</th>
+      <th>n</th>
+      <th><a href="">・・・</a></th>
     </tr>
   </table>
