@@ -1,5 +1,8 @@
 # MokumokuCar
 a mecanum wheel car
+PS4 dual shock controller
+M5 Core2
+Adafruit Feather
 
 **Parts list**
  <table border="1">
